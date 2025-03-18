@@ -43,28 +43,3 @@ npm install
 npm run dev
 ```
 (The frontend will run on [http://localhost:3000](http://localhost:3000)
-
-🔥 Core Functionality
-✅ Video Upload Form
-Allows users to upload interview videos.
-Handles file validation and displays error messages for invalid formats.
-✅ API Integration
-Uses Axios to send video files to the backend.
-Displays the generated feedback and interview scores.
-✅ Real-time Feedback Display
-Renders AI-generated feedback, including:
-Facial expression analysis
-Speech transcription
-Filler word detection
-Overall interview score
-⚠️ Troubleshooting
-1️⃣ CORS issues when connecting to the backend
-Ensure the backend has Flask-CORS enabled.
-Verify the NEXT_PUBLIC_BACKEND_URL is correct in .env.local.
-2️⃣ Styling issues
-Check Tailwind configuration and ensure classes are applied correctly.
-Restart the server to reflect Tailwind changes.
-💡 Future Improvements
-Add pagination and filtering for interview history.
-Implement multi-language support.
-Enhance UI with more detailed charts and visualizations.
