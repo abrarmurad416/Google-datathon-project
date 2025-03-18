@@ -14,4 +14,4 @@
   - Node.js for frontend  
   - Python 3.11 with `venv` for backend  
 
-![image](https://github.com/user-attachments/assets/0e322cd4-9a21-474d-8dc3-64a4ecb27b91)
+![image](https://github.com/user-attachments/assets/a3fe1b03-c9d0-4ed8-8305-cf04e2accca5)
